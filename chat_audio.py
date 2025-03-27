@@ -8,7 +8,7 @@ import os
 import tempfile
 #AUDIO
 
-API_KEY = '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'
+API_KEY = 'your api key'
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Initialize conversation history
